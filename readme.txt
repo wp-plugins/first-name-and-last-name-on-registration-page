@@ -10,7 +10,7 @@ Adds First name and Last name to registration form.
 
 == Description ==
 
-This puling simply adds the fields for First name and Last name to the Registration form.
+This plugin simply adds the fields for First name and Last name to the Registration form.
 
 == Installation ==
 
@@ -27,4 +27,4 @@ That's it!
 
 == Support ==
 
-Support is provided at http://www.thefunkhouse.co.uk/wordpress-plugins/fname-lname
+Support is provided at http://www.thefunkhouse.co.uk/wordpress-plugins/firstname-lastname/
